@@ -22,6 +22,10 @@ Extension to Bybass Bing Chat token limit to 25k, inspired by [this post](https:
 
 5- Select the folder you unzipped the extension in
 
+Note: it works in bing chat main page, and you have to wait for the page content to be loaded, then you will see the word limit change to 25000.
+
+![screenshot](resources/screenshot.png)
+
 
 # Disclaimer
 This extension is not affiliated with Microsoft or Bing in any way, and it's not illegal since the Discover button can handle large pages and it's not a violation of the terms of service.

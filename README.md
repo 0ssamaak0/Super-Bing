@@ -3,14 +3,19 @@
 </div>
 <br>
 
-Extension to Bybass Bing Chat token limit untill 25k, inspired by [Reddit post](https://www.reddit.com/r/bing/comments/12ph7le/how_to_set_the_text_limit_on_bing_chat_to_25000/)
+Extension to Bybass Bing Chat token limit to 25k, inspired by [Reddit post](https://www.reddit.com/r/bing/comments/12ph7le/how_to_set_the_text_limit_on_bing_chat_to_25000/)
 
 # Installation
-1- Download the extension from [here]()
+1- Download the extension from [here](https://github.com/0ssamaak0/Super-Bing/raw/master/resources/SuperBing.zip)
+
 2- Unzip the extension
+
 3- Open Edge Extensions or simply go Go to `edge://extensions`
+
 3- Enable Developer Mode
+
 4- Click on Load Unpacked
+
 5- Select the folder you unzipped the extension in
 
 

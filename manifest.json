@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Super Bing",
+    "version": "1.0",
+    "description": "Increase the limit of bingchat",
+    "icons": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.bing.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": [
+        "*://*.bing.com/*"
+    ]
+}

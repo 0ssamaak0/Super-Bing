@@ -1,9 +1,11 @@
 <div align = "center">
+
 <img src = "resources/superbing.png" width = 200 height = 200>
 
 <br>
 
 Extension to Bybass Bing Chat token limit to 25k, inspired by [this post](https://www.reddit.com/r/bing/comments/12ph7le/how_to_set_the_text_limit_on_bing_chat_to_25000/)
+
 </div>
 
 

@@ -10,7 +10,7 @@ Extension to Bybass Bing Chat token limit to 25k, inspired by [this post](https:
 
 
 # Installation
-1- Download the extension from [here](https://github.com/0ssamaak0/Super-Bing/raw/master/resources/SuperBing.zip)
+1- Download the extension from [here](https://github.com/0ssamaak0/Super-Bing/archive/refs/heads/master.zip)
 
 2- Unzip the extension
 
